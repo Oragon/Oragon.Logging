@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oragon.Logging", "Oragon.Logging\Oragon.Logging.csproj", "{8DA97101-A63A-4991-A754-FC861FBE716E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oragon.Logging.RabbitMQ", "Oragon.Logging.RabbitMQ\Oragon.Logging.RabbitMQ.csproj", "{99A125F8-CDB1-4394-9E07-7A324083C321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA97101-A63A-4991-A754-FC861FBE716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA97101-A63A-4991-A754-FC861FBE716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA97101-A63A-4991-A754-FC861FBE716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA97101-A63A-4991-A754-FC861FBE716E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A125F8-CDB1-4394-9E07-7A324083C321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A125F8-CDB1-4394-9E07-7A324083C321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A125F8-CDB1-4394-9E07-7A324083C321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A125F8-CDB1-4394-9E07-7A324083C321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A58A7A7-079A-4128-9700-002CE2D77B84}
+	EndGlobalSection
+EndGlobal

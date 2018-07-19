@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>Oragon.Logging.RabbitMQ</AssemblyName>
+        <RootNamespace>Oragon</RootNamespace>
+        <Authors>LuizCarlosFaria</Authors>
+        <Company>oragon.io</Company>
+        <Product>Oragon</Product>
+        <Description>Reinventing log strategy with complex and intuitive types</Description>
+        <PackageId>Oragon.Logging.RabbitMQ</PackageId>
+        <PackageProjectUrl>https://github.com/Oragon/Oragon.Logging</PackageProjectUrl>
+        <PackageIconUrl>http://gago.io/wp-content/uploads/2014/03/Oragon-Architecture-Penknife.export.png</PackageIconUrl>
+        <RepositoryUrl>https://github.com/Oragon/Oragon.Logging</RepositoryUrl>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <Version>1.0.0-alpha</Version>
+        <Copyright>Copyright 2018</Copyright>
+        <PackageTags>Oragon Architecture,  Oragon, Architecture, luiz, carlos, faria, luizcarlosfaria, oragonarchitect</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Oragon.Common" Version="2.0.0" />
+    </ItemGroup>
+
+</Project>
