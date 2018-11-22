@@ -19,7 +19,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Oragon.Common" Version="2.1.2" />
+      <PackageReference Include="Oragon.Common" Version="2.2.0" />
     </ItemGroup>
 
 </Project>
